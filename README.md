@@ -1,6 +1,6 @@
 # pscf-solution
 
-This repository includes the open source material developed to agilely carry out the configuration of virtualized network functions (VNFs). In other words, this development provides a simple, but effective, solution of the VNF Manager (VNFM) entity defined within the ETSI NFV architectural framework. This solution is based on the publish-subscribe model, and its main aspects are all elaborated in detail in [1].
+This repository includes the open source material developed to agilely carry out the configuration of virtualized network functions (VNFs). In other words, this development provides a simple, but effective, solution of the VNF Manager (VNFM) entity defined within the ETSI NFV architectural framework. This solution is based on the publish-subscribe model, which originates the name assigned to this Publish-Suscribe Configuration Function (PSCF) solution, and its main aspects are all elaborated in detail in [1].
 
 
 ## References
